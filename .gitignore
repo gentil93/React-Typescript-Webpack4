@@ -1,0 +1,7 @@
+node_modules
+*.log
+*.idea
+*.vscode
+.env
+dist
+dist/index_html
