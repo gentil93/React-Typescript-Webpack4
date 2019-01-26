@@ -1,7 +1,6 @@
 import * as React from 'react'
-import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
-
+require('./app.css')
 
 class App extends React.Component<any, any> {
     render() {

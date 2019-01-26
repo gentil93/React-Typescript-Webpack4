@@ -6,6 +6,8 @@
     "noImplicitAny": true,
     "module": "commonjs",
     "target": "es5",
+    "declaration": true,
+    "typeRoots": ["../../node_modules/@types", "node_modules/@types"],
     "jsx": "react",
     "paths": {
       "@src/*": ["src/*"],

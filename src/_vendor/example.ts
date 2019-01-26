@@ -1,0 +1,1 @@
+// this directory is intended for the declares of missed @types in the packages

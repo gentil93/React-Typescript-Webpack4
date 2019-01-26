@@ -11,6 +11,7 @@
     "max-line-length": {
           "options": [140]
       },
+    "no-string-literal": false,
     "ordered-imports": false,
     "grouped-imports": false,
     "jsx-curly-spacing": [true, "always"],
